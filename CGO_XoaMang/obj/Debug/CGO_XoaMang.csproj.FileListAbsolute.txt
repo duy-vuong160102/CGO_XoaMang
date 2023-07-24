@@ -1,0 +1,8 @@
+D:\GitHub\Project\BTVN\CGO_XoaMang\CGO_XoaMang\bin\Debug\CGO_XoaMang.exe.config
+D:\GitHub\Project\BTVN\CGO_XoaMang\CGO_XoaMang\bin\Debug\CGO_XoaMang.exe
+D:\GitHub\Project\BTVN\CGO_XoaMang\CGO_XoaMang\bin\Debug\CGO_XoaMang.pdb
+D:\GitHub\Project\BTVN\CGO_XoaMang\CGO_XoaMang\obj\Debug\CGO_XoaMang.csproj.AssemblyReference.cache
+D:\GitHub\Project\BTVN\CGO_XoaMang\CGO_XoaMang\obj\Debug\CGO_XoaMang.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\BTVN\CGO_XoaMang\CGO_XoaMang\obj\Debug\CGO_XoaMang.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\BTVN\CGO_XoaMang\CGO_XoaMang\obj\Debug\CGO_XoaMang.exe
+D:\GitHub\Project\BTVN\CGO_XoaMang\CGO_XoaMang\obj\Debug\CGO_XoaMang.pdb
